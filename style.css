@@ -4,6 +4,9 @@
   
 
 }
+body{
+    overflow-x :hidden;
+}
 .nav-link{
     color: aliceblue;
 }
